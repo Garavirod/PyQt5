@@ -1,0 +1,34 @@
+QWidget#formu {
+    background-color: rgb(245, 246, 248);
+}
+
+QPushButton#btn_ok {
+    border-radius: 15px;
+    border: solid 2px;
+    background: white;
+}
+
+QGroupBox#groupBox {
+    background: rgb(19, 68, 175);
+}
+
+QLineEdit#lineEdit_cap {
+    border-radius: 20px;
+}
+
+QLabel#label_captcha {
+    color: white;
+    font-weight: bold;
+}
+
+QPushButton#btn_ok {
+    color: rgb(209, 14, 24);
+    border: 2px solid rgb(209, 14, 24);
+    background: white;
+}
+
+QPushButton#btn_ok:hover {
+    background: rgb(209, 14, 24);
+    color: white;
+    border: 2px solid white;
+}
